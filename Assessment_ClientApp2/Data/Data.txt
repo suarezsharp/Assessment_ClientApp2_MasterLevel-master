@@ -1,0 +1,5 @@
+﻿Sid,145,happy,Tipa,true,4/13
+Lucy,125,bored,Lynari,false,6/12
+Bill,934,sad,Alfitaria,true,6/25
+Joe,830,angry,Shella,false,9/14
+Candice,231,happy,Fum,true,6/24
